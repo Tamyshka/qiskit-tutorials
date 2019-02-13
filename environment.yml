@@ -6,6 +6,4 @@ dependencies:
 - notebook
 - ipywidgets
 - pip:
-  - qiskit
-  - qiskit-aqua
-  - qiskit-chemistry
+  - qiskit==0.7.1
